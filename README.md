@@ -20,3 +20,9 @@ A "cheatsheet" for basic Bash commands. Keep this handy.
 
 [Bash Commands Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)<br>
 For really getting into the weeds of built-in commands and features of the Bash shell. This is a big document, I recommend `ctrl+F` if you know what you're looking for!
+
+## Textbooks
+
+[Pro Git v2 (Chacon and Straub, 2014)](https://git-scm.com/book/en/v2)<br>
+
+Likely too much for beginners, but highly recommended as a comprehensive resource. They go straight to Git bash commands, as they feel it's better to start in the shell and then try a Git client (e.g. GitKraken, SourceTree).
