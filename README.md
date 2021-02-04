@@ -3,6 +3,9 @@
 
 ## Tutorials/Lessons
 
+[McMaster DASH Tutorial on GitHub and GitHub Pages](https://scds.github.io/github-pages/)
+Our very own Jay Brodeur has created a nice walkthrough on getting started with GitHub, and using GH "Pages" to create a webpage.
+
 [Learning Git Branching](https://learngitbranching.js.org/)<br>
 An interactive web tutorial that introduces the jargon of Git, and basic Git bash commands, in a friendly, colourful, graphical format.
 
